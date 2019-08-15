@@ -1,2 +1,3 @@
-# bloggy project
-## https://mentoor.io  mentoor traning ground task 
+# boLggy project
+
+**vewsion 1.0.0** -[change log] (CHANGELOG.MD)
